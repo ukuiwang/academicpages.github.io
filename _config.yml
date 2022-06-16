@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Youkui Wang"
 title_separator          : "-"
 name                     : &name "Youkui Wang"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Youkui Wang"
   avatar           : "ukuiwang.jpg"
   bio              : "My left-hand sidebar"
-  location         : "China"
+  location         : "Tsinghua university"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
